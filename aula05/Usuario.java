@@ -1,5 +1,4 @@
-import aula05.ControleRemoto;
-
+package aula05;
 public class Usuario {
     public static void main(String[] args) {
         // Criar uma instância de ControleRemoto
